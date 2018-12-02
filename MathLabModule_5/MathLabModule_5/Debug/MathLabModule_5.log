@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\mathlabmodule_5\mathlabmodule_5\source.cpp(104): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MathLabModule_5.vcxproj -> C:\Users\kostr\source\repos\MathLabModule_5\Debug\MathLabModule_5.exe

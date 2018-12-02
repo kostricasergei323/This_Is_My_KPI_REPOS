@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\magaz_internet\magaz_internet\source.cpp(88): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  magaz_internet.vcxproj -> C:\Users\kostr\source\repos\magaz_internet\Debug\magaz_internet.exe

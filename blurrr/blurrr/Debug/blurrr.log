@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\blurrr\blurrr\source.cpp(59): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  blurrr.vcxproj -> C:\Users\kostr\source\repos\blurrr\Debug\blurrr.exe

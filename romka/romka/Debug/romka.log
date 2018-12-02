@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\kostr\source\repos\romka\romka\source.c(36): warning C4305: =: усечение из "double" в "float"
+c:\users\kostr\source\repos\romka\romka\source.c(67): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\kostr\source\repos\romka\romka\source.c(67): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\kostr\source\repos\romka\romka\source.c(67): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\kostr\source\repos\romka\romka\source.c(67): note: этот аргумент используется в качестве размера буфера
+  romka.vcxproj -> C:\Users\kostr\source\repos\romka\Debug\romka.exe

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(83): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(95): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(125): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(127): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(135): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\kostr\source\repos\oop_1\oop_1\source.cpp(174): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+Debug\Source.obj : warning LNK4042: юс·хъЄ єърчрэ сюыхх юфэюую Ёрчр; ыш°эшх эх єўшЄ√тр■Єё
+Source.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "void __cdecl printTable(float,float *,float *,float,int)" (?printTable@@YAXMPAM0MH@Z) т ЇєэъЎшш _main
+Source.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "void __cdecl printSpecs(float,float)" (?printSpecs@@YAXMM@Z) т ЇєэъЎшш _main
+C:\Users\kostr\source\repos\OOP_1\Debug\OOP_1.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 2

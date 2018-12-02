@@ -1,0 +1,3 @@
+﻿  sonet.cpp
+c:\users\kostr\source\repos\sonet\sonet\sonet.cpp(30): warning C4101: words: неиспользованная локальная переменная
+c:\users\kostr\source\repos\sonet\sonet\sonet.cpp(18): error C4716: separate: должна возвращать значение

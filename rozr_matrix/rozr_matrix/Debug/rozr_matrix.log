@@ -1,0 +1,3 @@
+﻿  Source (7).cpp
+c:\users\kostr\source\repos\rozr_matrix\rozr_matrix\source (7).cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  rozr_matrix.vcxproj -> C:\Users\kostr\source\repos\rozr_matrix\Debug\rozr_matrix.exe

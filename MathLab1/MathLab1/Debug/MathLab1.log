@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\mathlab1\mathlab1\source.cpp(52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\kostr\source\repos\mathlab1\mathlab1\source.cpp(82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\kostr\source\repos\mathlab1\mathlab1\source.cpp(94): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MathLab1.vcxproj -> C:\Users\kostr\source\repos\MathLab1\Debug\MathLab1.exe

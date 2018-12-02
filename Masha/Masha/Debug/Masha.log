@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\kostr\source\repos\masha\masha\source.c(19): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Masha.vcxproj -> C:\Users\kostr\source\repos\Masha\Debug\Masha.exe

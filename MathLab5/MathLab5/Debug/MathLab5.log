@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\mathlab5\mathlab5\source.cpp(38): warning C4129: G: неизвестная escape-последовательность
+c:\users\kostr\source\repos\mathlab5\mathlab5\source.cpp(106): warning C4129: G: неизвестная escape-последовательность
+  MathLab5.vcxproj -> c:\Users\kostr\source\repos\MathLab5\Debug\MathLab5.exe

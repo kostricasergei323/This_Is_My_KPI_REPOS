@@ -1,0 +1,6 @@
+﻿  ListOfAutosInPlane.cpp
+  Source.cpp
+c:\users\kostr\source\repos\this_is_my_kpi_repos\oop5\oop5\source.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Vehicle.cpp
+  Создание кода...
+  OOP5.vcxproj -> C:\Users\kostr\source\repos\This_Is_My_KPI_REPOS\OOP5\Debug\OOP5.exe

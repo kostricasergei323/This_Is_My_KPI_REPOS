@@ -1,0 +1,3 @@
+﻿  drawmenu.cpp
+c:\users\kostr\source\repos\lab7_console\lab7_console\drawmenu.cpp(119): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  lab7_console.vcxproj -> C:\Users\kostr\source\repos\lab7_console\Debug\lab7_console.exe

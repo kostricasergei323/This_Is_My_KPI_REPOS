@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kostr\source\repos\rightanddown\rightanddown\source.cpp(39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  RightAndDown.vcxproj -> C:\Users\kostr\source\repos\RightAndDown\Debug\RightAndDown.exe

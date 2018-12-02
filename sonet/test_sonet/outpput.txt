@@ -1,0 +1,100 @@
+Music to hear, why hear'st thou music sadly?
+Sweets with sweets war not, joy delights in joy:
+Why lov'st thou that which thou receiv'st not gladly,
+Or else receiv'st with pleasure thine annoy?
+
+If the true concord of well-tund sounds,
+By unions married, do offend thine ear,
+They do but sweetly chide thee, who confounds
+In singleness the parts that thou shouldst bear;
+
+Mark how one string, sweet husband to another,
+Strikes each in each by mutual ordering;
+Resembling sire, and child, and happy mother,
+Who all in one, one pleasing note do sing;
+
+Whose speechless song being many, seeming one,
+Sings this to thee, 'Thou single wilt prove none.'
+
+
+     annoy : 1
+   another : 1
+       and : 2
+       all : 1
+        By : 2
+       but : 1
+      bear : 1
+     being : 1
+   concord : 1
+     chide : 1
+ confounds : 1
+     child : 1
+  delights : 1
+        do : 3
+      else : 1
+       ear : 1
+      each : 2
+    gladly : 1
+      hear : 1
+   hear'st : 1
+       how : 1
+   husband : 1
+     happy : 1
+        in : 4
+        If : 1
+       joy : 2
+    lov'st : 1
+     Music : 2
+   married : 1
+      Mark : 1
+    mutual : 1
+    mother : 1
+      many : 1
+       not : 2
+      note : 1
+      none : 1
+        Or : 1
+        of : 1
+    offend : 1
+       one : 4
+  ordering : 1
+  pleasure : 1
+     parts : 1
+  pleasing : 1
+     prove : 1
+ receiv'st : 2
+Resembling : 1
+     sadly : 1
+    Sweets : 2
+    sounds : 1
+   sweetly : 1
+singleness : 1
+  shouldst : 1
+    string : 1
+     sweet : 1
+   Strikes : 1
+      sire : 1
+      sing : 1
+speechless : 1
+      song : 1
+   seeming : 1
+     Sings : 1
+    single : 1
+        to : 3
+      thou : 5
+      that : 2
+     thine : 2
+       the : 2
+      true : 1
+      They : 1
+      thee : 2
+      this : 1
+    unions : 1
+       why : 2
+      with : 2
+       war : 1
+     which : 1
+ well-tund : 1
+       who : 2
+     Whose : 1
+      wilt : 1
